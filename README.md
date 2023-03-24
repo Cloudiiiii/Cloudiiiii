@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning SQL<br>💬 Ask me about C#
+🌱 I’m currently learning Angular<br>💬 Ask me about C#
 
 
 ## 🌐 Socials:
